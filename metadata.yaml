@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41025'
     url: http://www.gutenberg.org/2009/agents/41025
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41191#Jenifer-s-Prayer
 gutenberg_issued: '2012-10-26'
 gutenberg_type: Text
 identifiers:
